@@ -5,13 +5,13 @@ Shadowsocks for iOS and OSX
 
 iOS
 -----
-[![iOS Icon](https://raw.github.com/shadowsocks/shadowsocks-iOS/master/ios_128.png)](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help)  
-[iOS Version](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help)
+[![iOS Icon](https://raw.github.com/shadowsocks/shadowsocks-iOS/master/ios_128.png)](https://github.com/kimw/shadowsocks-iOS/wiki/Help)  
+[iOS Version](https://github.com/kimw/shadowsocks-iOS/wiki/Help)
 
 OSX
 -----
-[![OSX Icon](https://raw.github.com/shadowsocks/shadowsocks-iOS/master/osx_128.png)](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help)  
-[OSX Version](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help)
+[![OSX Icon](https://raw.github.com/shadowsocks/shadowsocks-iOS/master/osx_128.png)](https://github.com/kimw/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help)  
+[OSX Version](https://github.com/kimw/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help)
 
 License
 -------
@@ -20,7 +20,7 @@ The project is released under the terms of [GPLv3](https://raw.github.com/shadow
 Bugs and Issues
 ----------------
 
-Please visit [issue tracker](https://github.com/shadowsocks/shadowsocks-iOS/issues?state=open)
+Please visit [issue tracker](https://github.com/kimw/shadowsocks-iOS/issues?state=open)
 
 Mailing list: http://groups.google.com/group/shadowsocks
 

@@ -300,7 +300,7 @@ void onPACChange(
 }
 
 - (void)showHelp {
-    [[NSWorkspace sharedWorkspace] openURL:[NSURL URLWithString:NSLocalizedString(@"https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help", nil)]];
+    [[NSWorkspace sharedWorkspace] openURL:[NSURL URLWithString:NSLocalizedString(@"https://github.com/kimw/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help", nil)]];
 }
 
 - (void)showConfigWindow {

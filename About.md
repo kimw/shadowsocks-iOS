@@ -1,4 +1,4 @@
-[Shadowsocks for iOS](https://github.com/shadowsocks/shadowsocks-iOS)
+[Shadowsocks for iOS](https://github.com/kimw/shadowsocks-iOS)
 ===================
 
 Copyright (C) 2014  clowwindy <clowwindy42@gmail.com>
@@ -19,5 +19,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 This project has used some third party libraries. Thanks to the open source
 community for their great job.
 
-See [LICENSE](https://github.com/shadowsocks/shadowsocks-iOS/blob/master/LICENSE)
+See [LICENSE](https://github.com/kimw/shadowsocks-iOS/blob/master/LICENSE)
 for detailed license information.

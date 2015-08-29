@@ -313,7 +313,7 @@
             [self presentModalViewController:qrCodeViewController animated:YES];
             break;
         case 6:
-            [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help"]];
+            [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/kimw/shadowsocks-iOS/wiki/Help"]];
             break;
         case 7:
             [self showAbout];

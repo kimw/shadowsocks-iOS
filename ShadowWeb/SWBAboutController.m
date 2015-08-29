@@ -216,7 +216,7 @@
             [self displayComposerSheet];
         }
         else if (row == 2) {
-            [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/shadowsocks/shadowsocks-iOS/"]];
+            [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/kimw/shadowsocks-iOS/"]];
         } else if(row == 3) {
             [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://itunes.apple.com/cn/app/shadowsocks/id665729974?ls=1&mt=8"]];
         }
